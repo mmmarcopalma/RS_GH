@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFrameworks>net48;net7.0</TargetFrameworks>
+    <Version>1.0</Version>
+    <Title>realsense_gh</Title>
+    <Description>Description of realsense_gh</Description>
+    <TargetExt>.gha</TargetExt>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <Compile Remove="Set\**" />
+    <EmbeddedResource Remove="Set\**" />
+    <None Remove="Set\**" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <Compile Remove="Get\ClassTest.cs" />
+    <Compile Remove="Get\GetDepth_SetRes.cs" />
+    <Compile Remove="get\Get_Depth_Cloud.cs" />
+    <Compile Remove="get\Get_Depth_H.cs" />
+    <Compile Remove="get\Get_Depth_M.cs" />
+    <Compile Remove="Get\Get_Depth_rec.cs" />
+    <Compile Remove="get\Get_Motion.cs" />
+    <Compile Remove="Get\Get_Server.cs" />
+    <Compile Remove="Get\Get_TCP.cs" />
+    <Compile Remove="Get\protected override void SolveInstance_callback.cs" />
+    <Compile Remove="Get\Set_Depth.cs" />
+    <Compile Remove="Get_Depth.cs" />
+    <Compile Remove="Get_Depth_rec.cs" />
+    <Compile Remove="Get_Motion.cs" />
+    <Compile Remove="rs_Get_Depth.cs" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <None Remove="desktop.ini" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grasshopper" Version="8.3.24009.15001" IncludeAssets="compile;build" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="Intel.RealSense">
+      <HintPath>extern\Intel.RealSense.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <PropertyGroup Condition="$(Configuration) == 'Debug' AND $([MSBuild]::IsOSPlatform(Windows))">
+    <StartProgram>C:\Program Files\Rhino 8\System\Rhino.exe</StartProgram>
+      <StartArguments>/runscript="_-RunScript (
+        Set GH = Rhino.GEtPlugInObject(""Grasshopper"")
+        Call GH.OpenDocument("""")
+      )"</StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+
+</Project>

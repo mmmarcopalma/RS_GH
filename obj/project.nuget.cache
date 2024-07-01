@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Z6DrSymk702bMdNrkq/s+Bd0XLQYsgaoik1nlSn5mODGGgABZyDmkS8cNDLpJmu935lc9Yq5KK5NJ2eF522jw==",
+  "success": true,
+  "projectFilePath": "G:\\Other computers\\My Laptop\\01_RESEARCH\\02_CODE\\development\\dev_REALSENSE_c#\\_published\\realsense_gh_v0.1\\realsense_gh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mpalma\\.nuget\\packages\\grasshopper\\8.3.24009.15001\\grasshopper.8.3.24009.15001.nupkg.sha512",
+    "C:\\Users\\mpalma\\.nuget\\packages\\rhinocommon\\8.3.24009.15001\\rhinocommon.8.3.24009.15001.nupkg.sha512",
+    "C:\\Users\\mpalma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\mpalma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\mpalma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Grasshopper 8.3.24009.15001' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Grasshopper",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RhinoCommon 8.3.24009.15001' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RhinoCommon",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

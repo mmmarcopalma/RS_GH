@@ -1,0 +1,20 @@
+C:\Users\marco\Desktop\realsense_gh\bin\Release\net7.0\realsense_gh.deps.json
+C:\Users\marco\Desktop\realsense_gh\bin\Release\net7.0\realsense_gh.gha
+C:\Users\marco\Desktop\realsense_gh\bin\Release\net7.0\realsense_gh.pdb
+C:\Users\marco\Desktop\realsense_gh\bin\Release\net7.0\Intel.RealSense.dll
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.AssemblyInfo.cs
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.csproj.CopyComplete
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.gha
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\refint\realsense_gh.gha
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\realsense_gh.pdb
+C:\Users\marco\Desktop\realsense_gh\obj\Release\net7.0\ref\realsense_gh.gha
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v0.1\obj\Release\net7.0\realsense_gh.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v0.1\obj\Release\net7.0\realsense_gh.Properties.Resources.resources
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v0.1\obj\Release\net7.0\realsense_gh.csproj.GenerateResource.cache
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v0.1\obj\Release\net7.0\realsense_gh.gha
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v0.1\obj\Release\net7.0\refint\realsense_gh.gha
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v0.1\obj\Release\net7.0\realsense_gh.pdb

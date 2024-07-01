@@ -1,0 +1,265 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Grasshopper/8.3.24009.15001": {
+        "type": "package",
+        "dependencies": {
+          "RhinoCommon": "[8.3.24009.15001]"
+        },
+        "compile": {
+          "lib/net48/GH_IO.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Grasshopper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/_._": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/net48/Grasshopper.targets": {}
+        }
+      },
+      "RhinoCommon/8.3.24009.15001": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Ed.Eto.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Eto.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Rhino.UI.dll": {},
+          "lib/net48/RhinoCommon.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/_._": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/net48/RhinoCommon.targets": {}
+        }
+      }
+    },
+    "net7.0": {
+      "Grasshopper/8.3.24009.15001": {
+        "type": "package",
+        "dependencies": {
+          "RhinoCommon": "[8.3.24009.15001]"
+        },
+        "compile": {
+          "lib/net48/GH_IO.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Grasshopper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/_._": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/net48/Grasshopper.targets": {}
+        }
+      },
+      "RhinoCommon/8.3.24009.15001": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Ed.Eto.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Eto.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Rhino.UI.dll": {},
+          "lib/net48/RhinoCommon.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/_._": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/net48/RhinoCommon.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grasshopper/8.3.24009.15001": {
+      "sha512": "7zheiozG1fDHlop5DenxVIGm75i+ybtAzRfc0jIOq/RiOFAdiwHnzbgiEmZtgCoKAmJ/FamVWX0MdzS/UtjJSQ==",
+      "type": "package",
+      "path": "grasshopper/8.3.24009.15001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net48/Grasshopper.targets",
+        "grasshopper.8.3.24009.15001.nupkg.sha512",
+        "grasshopper.nuspec",
+        "grasshopper.png",
+        "lib/net48/GH_IO.dll",
+        "lib/net48/GH_IO.xml",
+        "lib/net48/Grasshopper.dll",
+        "lib/net48/Grasshopper.xml"
+      ]
+    },
+    "RhinoCommon/8.3.24009.15001": {
+      "sha512": "hDfwhSQGHxmlzuOZhp4D3fJkTJXpMwT5FsUatH8TE6JnJ1O7c+v4qmDu8cs0bBlXqVWTfmIAvVJmdVZuC/2Q4g==",
+      "type": "package",
+      "path": "rhinocommon/8.3.24009.15001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Eto-LICENSE.txt",
+        "build/net48/RhinoCommon.targets",
+        "lib/net48/Ed.Eto.dll",
+        "lib/net48/Ed.Eto.xml",
+        "lib/net48/Eto.dll",
+        "lib/net48/Eto.xml",
+        "lib/net48/Rhino.UI.dll",
+        "lib/net48/RhinoCommon.dll",
+        "lib/net48/RhinoCommon.xml",
+        "rhinocommon.8.3.24009.15001.nupkg.sha512",
+        "rhinocommon.nuspec",
+        "rhinocommon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Grasshopper >= 8.3.24009.15001"
+    ],
+    "net7.0": [
+      "Grasshopper >= 8.3.24009.15001"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mpalma\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Other computers\\My Laptop\\01_RESEARCH\\02_CODE\\development\\dev_REALSENSE_c#\\_published\\realsense_gh_v0.1\\realsense_gh.csproj",
+      "projectName": "realsense_gh",
+      "projectPath": "G:\\Other computers\\My Laptop\\01_RESEARCH\\02_CODE\\development\\dev_REALSENSE_c#\\_published\\realsense_gh_v0.1\\realsense_gh.csproj",
+      "packagesPath": "C:\\Users\\mpalma\\.nuget\\packages\\",
+      "outputPath": "G:\\Other computers\\My Laptop\\01_RESEARCH\\02_CODE\\development\\dev_REALSENSE_c#\\_published\\realsense_gh_v0.1\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\mpalma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48",
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        },
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Grasshopper": {
+            "include": "Compile, Build",
+            "target": "Package",
+            "version": "[8.3.24009.15001, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      },
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "Grasshopper": {
+            "include": "Compile, Build",
+            "target": "Package",
+            "version": "[8.3.24009.15001, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Grasshopper 8.3.24009.15001' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Grasshopper",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RhinoCommon 8.3.24009.15001' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RhinoCommon",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

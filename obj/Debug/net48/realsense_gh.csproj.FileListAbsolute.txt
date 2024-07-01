@@ -1,0 +1,46 @@
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\bin\Debug\net48\realsense_gh.gha
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\bin\Debug\net48\realsense_gh.pdb
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\bin\Debug\net48\Intel.RealSense.dll
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.csproj.AssemblyReference.cache
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.AssemblyInfoInputs.cache
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.AssemblyInfo.cs
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.csproj.CoreCompileInputs.cache
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.csproj.CopyComplete
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.gha
+C:\Users\mpalma\Desktop\realsense_gh\realsense_gh\obj\Debug\net48\realsense_gh.pdb
+C:\Users\marco\Desktop\realsense_gh\bin\Debug\net48\realsense_gh.gha
+C:\Users\marco\Desktop\realsense_gh\bin\Debug\net48\realsense_gh.pdb
+C:\Users\marco\Desktop\realsense_gh\bin\Debug\net48\Intel.RealSense.dll
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.AssemblyInfo.cs
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.csproj.CopyComplete
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.gha
+C:\Users\marco\Desktop\realsense_gh\obj\Debug\net48\realsense_gh.pdb
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\bin\Debug\net48\realsense_gh.gha
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\bin\Debug\net48\realsense_gh.pdb
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\bin\Debug\net48\Intel.RealSense.dll
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.AssemblyInfo.cs
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.csproj.CopyComplete
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.gha
+C:\Users\marco\Documents\__Lavoro\___VIENNA___\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.pdb
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\bin\Debug\net48\realsense_gh.gha
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\bin\Debug\net48\realsense_gh.pdb
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\bin\Debug\net48\Intel.RealSense.dll
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.AssemblyInfoInputs.cache
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.AssemblyInfo.cs
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.csproj.CopyComplete
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.gha
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.pdb
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.Properties.Resources.resources
+G:\Other computers\My Laptop\01_RESEARCH\02_CODE\development\dev_REALSENSE_c#\_published\realsense_gh_v1.0\obj\Debug\net48\realsense_gh.csproj.GenerateResource.cache
