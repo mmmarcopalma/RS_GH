@@ -4,7 +4,7 @@ authors:
 - family-names: "Palma"
   given-names: "Marco"
   orcid: "https://orcid.org/0000-0002-7631-3260"
-title: "realsense_gh"
+title: "rs_gh"
 version: 0.1.0
 doi: 10.5281/zenodo.12607863
 date-released: 2024-07-01
