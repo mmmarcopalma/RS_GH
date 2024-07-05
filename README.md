@@ -7,7 +7,7 @@ Available Functions
 - Get Depth Frame
 - Clip Depth Frame 
 - Select Autoupdate Frequency
-- Record On / Off
+- Record Depth Frames On / Off
 
 Outputs
 - Basic camera Log
