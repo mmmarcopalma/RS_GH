@@ -14,11 +14,11 @@ Outputs
 - Current Depth Frame (as Grasshopper PointCloud)
 - Recorded Depth Frames (as Grasshopper PointCould DataTree)
 
-https://github.com/mmmarcopalma/rs_gh/assets/55834796/a4019b3a-b612-4a1c-b019-c799848ee438
+https://github.com/mmmarcopalma/rs_gh/assets/55834796/9fc11cc1-e857-455d-a868-f350e388f7a0
 
-https://github.com/mmmarcopalma/rs_gh/assets/55834796/8ac3f2c8-9e01-44b2-a1b3-0fbce975b0ce
+https://github.com/mmmarcopalma/rs_gh/assets/55834796/cf8123a6-c6be-4316-9b9d-e3f581a2791b
 
-https://github.com/mmmarcopalma/rs_gh/assets/55834796/918aeafc-3e21-4fbd-a3c9-c3727f4d7e28
+https://github.com/mmmarcopalma/rs_gh/assets/55834796/a9342fc1-c871-42c1-a0a5-c9c28c786b90
 
-https://github.com/mmmarcopalma/rs_gh/assets/55834796/5015082f-44cb-4a55-98e2-3e29f19c4cfc
+https://github.com/mmmarcopalma/rs_gh/assets/55834796/15d6c13b-92e6-4f48-b26d-c2e48b56d896
 
